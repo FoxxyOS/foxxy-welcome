@@ -1,0 +1,3 @@
+#!/bin/bash
+cd /usr/share/foxxy-welcome
+/usr/share/foxxy-welcome/browser

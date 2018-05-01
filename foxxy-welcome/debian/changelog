@@ -1,0 +1,49 @@
+foxxy-welcome (3.1+foxxy0) testing; urgency=medium
+
+  * Update to Foxxy 3.1
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@foxxysec.org>  Sun, 24 Jul 2016 15:41:07 +0200
+
+foxxy-welcome (3.0+foxxy6) testing; urgency=medium
+
+  * Change Emanuel DI Vita GPG key
+
+ -- Lorenzo "Palinuro" Faletra <eclipse@foxxysec.org>  Thu, 16 Jun 2016 20:25:27 +0200
+
+foxxy-welcome (3.0+foxxy5) testing; urgency=medium
+
+  * Add Emanuel Di Vita as one of our featured developers
+
+ -- Lorenzo "Palinuro" Faletra <eclipse@foxxysec.org>  Thu, 16 Jun 2016 19:48:41 +0200
+
+foxxy-welcome (3.0+foxxy4) testing; urgency=medium
+
+  * Update for Foxxy 3.0
+
+ -- Lorenzo "Palinuro" Faletra <eclipse@foxxysec.org>  Thu, 16 Jun 2016 09:31:51 +0200
+
+foxxy-welcome (3.0+foxxy3) testing; urgency=medium
+
+  * Update copyright year
+
+ -- Lorenzo "Palinuro" Faletra <eclipse@frozenbox.org>  Mon, 18 Apr 2016 01:31:39 +0200
+
+foxxy-welcome (3.0+foxxy2) testing; urgency=medium
+
+  * Update team layout and info
+
+ -- Lorenzo "Palinuro" Faletra <eclipse@frozenbox.org>  Mon, 18 Apr 2016 01:13:26 +0200
+
+foxxy-welcome (3.0+foxxy1) testing; urgency=medium
+
+  * Fix execution permissions.
+
+ -- Lorenzo "Palinuro" Faletra <eclipse@frozenbox.org>  Sun, 17 Apr 2016 22:12:21 +0200
+
+foxxy-welcome (3.0) testing; urgency=high
+
+  * Update for Foxxy 3
+  * Debianized package source
+  * Import from previous source style
+
+ -- Lorenzo "Palinuro" Faletra <palinuro@frozenbox.org>  Sat, 09 Apr 2016 16:57:01 +0200
